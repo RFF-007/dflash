@@ -24,7 +24,7 @@ transformers = [
     "typing-extensions",
 ]
 sglang = [
-    "sglang[all] @ git+https://github.com/sgl-project/sglang.git@refs/pull/20547/head#subdirectory=python",
+    "sglang[all] @ git+https://github.com/sgl-project/sglang.git@refs/pull/23000/head#subdirectory=python",
     "transformers",
 ]
 vllm = [
